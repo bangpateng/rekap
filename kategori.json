@@ -1,0 +1,28 @@
+{
+  "categories": {
+    "Garapan Testnet": {
+      "emoji": "&#128138;",
+      "hashtags": ["#testnet", "#Testnet"]
+    },
+    "Garapan Whitelist": {
+      "emoji": "&#128218;",
+      "hashtags": ["#whitelist", "#Whitelist", "#waitlist", "#Waitlist", "#WL", "#wl"]
+    },
+    "Garapan Airdrop Bot and Gleam": {
+      "emoji": "&#127942;",
+      "hashtags": ["#airdrop", "#Airdrop", "#bot", "#Bot", "#gleam", "#Gleam", "#depin", "#Depin"]
+    },
+    "Garapan Node": {
+      "emoji": "&#128421;",
+      "hashtags": ["#node", "#Node", "#validator", "#Validator"]
+    },
+    "Garapan Update": {
+      "emoji": "&#9203;",
+      "hashtags": ["#update", "#Update", "#news", "#News", "#info", "#Info"]
+    },
+    "Garapan Landing": {
+      "emoji": "&#128176;",
+      "hashtags": ["#landing", "#Landing", "#cair", "#Cair", "#jp", "#JP", "#Jp"]
+    }
+  }
+}

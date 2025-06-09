@@ -1,0 +1,33 @@
+{
+  "socialMedia": {
+    "title": "Official Sosial Media",
+    "titleEmoji": "&#127760;",
+    "links": [
+      {
+        "name": "Youtube Channel",
+        "url": "YOUR-LINK-YOUTUBE",
+        "emoji": "&#128250;"
+      },
+      {
+        "name": "Twitter", 
+        "url": "YOUR-LINK-TWITTER",
+        "emoji": "&#128038;"
+      },
+      {
+        "name": "Telegram Channel",
+        "url": "YOUR-LINK-AIRDROP", 
+        "emoji": "&#128172;"
+      },
+      {
+        "name": "Telegram Group",
+        "url": "YOUR-LINK-GROUP",
+        "emoji": "&#128483;"
+      },
+      {
+        "name": "Website Official",
+        "url": "YOUR-LINK-WEBSITE",
+        "emoji": "&#127758;"
+      }
+    ]
+  }
+}
