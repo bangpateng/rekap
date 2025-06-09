@@ -33,7 +33,10 @@ Bot menggunakan **AI-like hashtag detection** dengan sistem prioritas:
 
 ### **1. Set Domain**
 
-Buat Domain di [Hostinger](https://hostinger.co.id?REFERRALCODE=A5NCOINNYGJ7]) Cuma 30 Rebuan Setahun
+- Buy di : [VPS Murah](https://www.databasemart.com/?aff_id=8d846344eed94bd4ab61b0acda370477])
+- Buat Domain di [Hostinger](https://hostinger.co.id?REFERRALCODE=A5NCOINNYGJ7]) Cuma 30 Rebuan Setahun
+
+### Set DNS Domain Kalian di Hostinger
 
 - Type : A
 - Name : Name (Misalkan Airdrop)
@@ -44,8 +47,6 @@ Noted : Simpan nama Domain Kalian Misalkan airdrop.bangpateng.xyz
 
 ### **2. Install di VPS**
 
-- Belum Punya VPS
-- Buy di : [VPS Murah](https://www.databasemart.com/?aff_id=8d846344eed94bd4ab61b0acda370477])
 - Open VPS Kamu
 
 ```
@@ -79,7 +80,11 @@ chmod +x instal.sh
 ./instal.sh
 ```
 
-- Masukan Data Data Tadi Yang Sudah Kalian Simpan Ada 4 di Antaranya `Nama Website` `Bot Token dari Bot Father` `ID Channel Utama` `ID Channel Relay`
+- Masukan Data Data Tadi Yang Sudah Kalian Simpan Ada 4 di Antaranya
+- `Nama Website Hostinger`
+- `Bot Token dari Bot Father`
+- `ID Channel Utama`
+- `ID Channel Relay`
 - Lanjutkan
 - Done
 
